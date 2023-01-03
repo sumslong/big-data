@@ -1,0 +1,15 @@
+,,
+Metropolitan area core: primary flow within an urbanized area of 50000 and greater, A, 221750
+Metropolitan area high commuting: primary flow 30% or more to a urbanized area of 50000 and greater, B, 4241
+Metropolitan area low commuting: primary flow 10% to <30% to a urbanized area of 50000 and greater, C, 215
+Micropolitan area core: primary flow within an urban cluster of 10000 to 49999, D, 13786
+Micropolitan high commuting: primary flow 30% or more to a urban cluster of 10000 to 49999, E, 658
+Micropolitan low commuting: primary flow 10% to <30% to a urban cluster of 10000 to 49999, F, 65
+Rural areas: primary flow to a tract outside a urbanized area of 50000 and greater or UC, G, 1389
+Secondary flow 30% to <50% to a larger urbanized area of 50000 and greater, H, 3131
+Secondary flow 30% to <50% to a urban cluster of 10000 to 49999, I, 164
+Secondary flow 30% to <50% to a urban cluster of 2500 to 9999, J, 21
+Secondary flow 30% to <50% to a urbanized area of 50000 and greater, K, 1075
+Small town core: primary flow within an urban cluster of 2500 to 9999, L, 4426
+Small town high commuting: primary flow 30% or more to a urban cluster of 2500 to 9999, M, 190
+Small town low commuting: primary flow 10% to <30% to a urban cluster of 2500 to 9999, N, 65
